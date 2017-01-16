@@ -1,0 +1,12 @@
+<?php
+
+/***********************************************************************
+*MySQL variables needed throughout the project.
+***********************************************************************/
+
+// This is the email all the contact forms will send you
+$servername = "mysql1.000webhost.com";
+$username = "a2817524_ollog";
+$password = "qwertypass1";
+$dbname = "a2817524_ollog";
+?>
