@@ -4,11 +4,17 @@ The steps for the configuration are as follows:-
 1)open terminal. Type mysql -v. if 	message like 
 "ERROR 1045 (28000): Access denied for user '<example>'@'localhost' (using password: NO)"
 then you already have mysql and setup.
+
 2)Otherwise, open terminal and type sudo apt-get install lamp-server^    and wait for the installation to complete.
+
 3)At the end of the installation you'll be asked for the password that is the password for the mysql server. Type the password, and remember it for future references.
+
 4)After complete installation, open terminal, and type mysql -u root -p -h localhost
+
 5)Then type the password that you remembered. and then u'll be able to see the mysql prompt.
+
 6)Then type type following commnds in the mysql> prompt
+
 Create Database olLogdb;
 use olLogdb;
 Create user 'olLoguser'@'localhost' identified by olLogpass;
