@@ -20,7 +20,19 @@ then The setup is completed.
 
 7)Now download phpmyadmin from internet and extract the setup in /var/www/html directory.
 
-8)Then open firefox.
+8)Then open firefox.fs
+	fdafs
+	dfnkdasjfdssa
+	fdafsds
+	fdsa
+	fdafsasd
+	fas
+	dfnkdasjfdsdsa
+	fassaf
+	dsaf
+	sda
+	fsad
+	fasdsfa
 9)type localhost/PhpMyAdmin
 10)type the ID as olLoguser and the password is olLogpass
 11)Then click on the database (olLogdb) in left panal.
